@@ -13,5 +13,5 @@
 | **Test ID** | **Description** | **Exp Input** | **Exp Output** | **Actual Output** |**Status**  |    
 |-------------|-----------------|------------|-------------|----------------|------------------|
 | L_01 | LED Glows when UCC only open |  NA| LED Glows | LED Glows |Pass |
-| L_02 | Level of water varies from 0L - 3000L | NA | varies from 0L - 3000L  | varies from 0L-3000L | Pass
+| L_02 | Level of water varies from 0L - 3000L | NA | varies from 0L - 3000L  | varies from 0L-3000L | Pass|
 
