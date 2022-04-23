@@ -38,7 +38,7 @@ This sysstem can be used in any place like home,office,park,etc...
   ## How
 
 The system controled by atmega328 which act ass brain.
-# Detailed requirements
+
   ## High level requirements 
 
 | ID | Description | Status |
@@ -53,7 +53,7 @@ The system controled by atmega328 which act ass brain.
 | LLR1 | if low level switch open before uplevel the water won't flow | Implemented |
 | LLR2 | the system works without errors |Implemented
 
-# Design
+
 | High Level Diagram | Low Level Diagram |
 | ------------------ | ---------------- |
 | ![beh1](https://user-images.githubusercontent.com/94284577/144244702-6e67dd84-6774-41f6-8085-a36290305c10.png) | ![beh2](https://user-images.githubusercontent.com/94284577/144244747-66e86594-00d3-465b-aedc-988879b62570.jpg) |
@@ -61,7 +61,7 @@ The system controled by atmega328 which act ass brain.
 | High Level Diagram | Low Level Diagram |
 | ------------------ | ---------------- |
 | ![str1](https://user-images.githubusercontent.com/94284577/144245180-94a8565c-a7e0-46ed-8f23-4c329291ebe1.png) | ![str2](https://user-images.githubusercontent.com/94284577/144245192-79c365ba-cd1e-447e-b4a4-f0d112614875.png) |
- ### Circuit diagram
+ 
 
 ![Screenshot from 2021-12-01 18-57-15](https://user-images.githubusercontent.com/94284577/144245354-93c4f027-d581-4b74-880b-25d1ef2abc10.png)
 
