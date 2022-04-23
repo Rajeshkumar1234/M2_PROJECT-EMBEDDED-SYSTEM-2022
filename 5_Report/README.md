@@ -11,7 +11,7 @@ into  the  tanks  automatically.
 1.Shows water level <br />
 2.cut off water automatically <br />
 3.User friendly.
-# SWOT ANALYSIS
+
   ## Strengths
  1.conservation of water resource <br /> 
  2.Manual effort reduction 
@@ -23,7 +23,7 @@ Program can be changed based on our convenience.
   ## Threats
 
 competitive due to more versions of Products.
-# 4W's and 1H
+
   ## Who
 This Product can be used by any consumers because its simple user friendly.
   ## What
