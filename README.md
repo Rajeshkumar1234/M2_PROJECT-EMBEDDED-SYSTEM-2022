@@ -13,3 +13,7 @@
 [![Contribution Check - Git Inspector](https://github.com/Rajeshkumar1234/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Rajeshkumar1234/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/git_inspector.yml)
 
 [![unity](https://github.com/Rajeshkumar1234/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/unity.yml/badge.svg)](https://github.com/Rajeshkumar1234/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/unity.yml)
+
+<a href="https://app.codiga.io/public/user/github/Rajeshkumar1234">
+   <img src="https://api.codiga.io/public/badge/user/github/Rajeshkumar1234?style=light" alt="codiga badge" />
+</a>
