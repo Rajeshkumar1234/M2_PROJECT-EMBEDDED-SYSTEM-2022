@@ -11,3 +11,5 @@
 [![Code Quality - Cppcheck](https://github.com/Rajeshkumar1234/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Rajeshkumar1234/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/cppcheck.yml)
 
 [![Contribution Check - Git Inspector](https://github.com/Rajeshkumar1234/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Rajeshkumar1234/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/git_inspector.yml)
+
+[![unity](https://github.com/Rajeshkumar1234/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/unity.yml/badge.svg)](https://github.com/Rajeshkumar1234/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/unity.yml)
